@@ -1,0 +1,14 @@
+com\wh\manager\StudentManager.class
+com\wh\controller\StudentSyncController.class
+com\wh\config\StudentInitializer.class
+com\wh\dao\StudentDao.class
+com\wh\service\StudentService.class
+com\wh\config\StudentConfig.class
+com\wh\view\StudentView.class
+com\wh\manager\StudentManagerImpl.class
+com\wh\service\StudentServiceImpl.class
+com\wh\config\HibernateConfiguration.class
+com\wh\entity\Student.class
+com\wh\dao\StudentDaoImpl.class
+com\wh\controller\StudentController.class
+com\wh\entity\StudentImpl.class
